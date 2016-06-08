@@ -1,1 +1,1 @@
-# codeigniter-sendmail_gmail
+# Sending Email using Gmail in Codeigniter 3
